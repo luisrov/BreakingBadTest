@@ -1,0 +1,12 @@
+.header-details {
+    margin-bottom: 15px;
+    padding-left: 15px;
+}
+.box img {
+    width: 100%;
+    height: auto;
+}
+
+.label-details {
+    font-weight: bold;
+}

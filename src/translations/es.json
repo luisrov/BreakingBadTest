@@ -1,0 +1,19 @@
+{
+    "title": "Bienvenido a la prueba Breaking Bab",
+    "showDetails": "MOSTRAR DETALLES",
+    "backToMain": "VOLVER A INICIO",
+    "changeQuote": "CAMBIAR FRASE",
+    "name": "Nombre: ",
+    "nickname": "Apodo: ",
+    "status": "Estado: ",
+    "birthday": "Fecha de nacimiento: ",
+    "occupation": "Ocupación: ",
+    "portrayed": "Actor/actriz: ",
+    "appearance": "Apariciones: ",
+    "better_call_saul_appearance": "Apariciones en Better Call Saul: ",
+    "category": "categoría: ",
+    "char_id": "char_id: ",
+    "charsNotFound": "Ha ocurrido un error obteniendo la información de los personajes",
+    "charNotFound": "Ha ocurrido un error obteniendo la información del personaje",
+    "quoteNotFound": "Ha ocurrido un error obteniendo la frase del personaje"
+}

@@ -1,0 +1,19 @@
+{
+    "title": "Wellcome to the Breaking Bab Test",
+    "showDetails": "SHOW DETAILS",
+    "backToMain": "BACK TO MAIN",
+    "changeQuote": "CHANGE QUOTE",
+    "name": "Name: ",
+    "nickname": "Nickname: ",
+    "status": "Status: ",
+    "birthday": "Birthday: ",
+    "occupation": "Occupation: ",
+    "portrayed": "Portrayed: ",
+    "appearance": "Appearance: ",
+    "better_call_saul_appearance": "Better_call_saul_appearance: ",
+    "category": "Category: ",
+    "char_id": "Char_id: ",
+    "charsNotFound": "An error has occurred obtaining the information of the characters",
+    "charNotFound": "An error has occurred obtaining the information of the character",
+    "quoteNotFound": "An error has occurred obtaining the character quote"
+}
