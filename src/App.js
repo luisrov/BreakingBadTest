@@ -7,7 +7,7 @@ import {
 } from "react-router-dom";
 import './App.css';
 import Main from './components/main/Main.jsx';
-import Details from './components/details/details.jsx';
+import Details from './components/details/Details.jsx';
 import messages_en from './translations/en.json';
 import messages_es from './translations/es.json';
 import {Container, Row, Col} from 'react-bootstrap';
