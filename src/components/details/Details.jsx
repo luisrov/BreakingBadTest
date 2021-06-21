@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import { useHistory, useParams} from "react-router-dom";
 import {Container, Col, Row, Button} from 'react-bootstrap';
-import './details.css';
+import './Details.css';
 import {FormattedMessage, useIntl} from 'react-intl';
 import svgLoading from '../../assets/loading.svg';
 
