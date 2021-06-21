@@ -27,8 +27,8 @@ const Details = () => {
 
     return (
         status === 'loading' ?
-        <Container className="data-loading">
-            <img src={svgLoading} alt='svg not found' />
+        <Container>
+            <img src={svgLoading} alt='svg not found' className="svg-center"/>
         </Container>:
         status === 'success' ?
         <Container>

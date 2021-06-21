@@ -6,7 +6,7 @@ import {
   Route,
 } from "react-router-dom";
 import './App.css';
-import Main from './components/main/main.jsx';
+import Main from './components/main/Main.jsx';
 import Details from './components/details/details.jsx';
 import messages_en from './translations/en.json';
 import messages_es from './translations/es.json';
@@ -30,7 +30,7 @@ function App() {
         <header className="App-header">
           <Container>
             <Row>
-              <Col xs={11} className="App-title">
+              <Col xs={9} md={11} className="App-title">
                 <FormattedMessage id="title" />
               </Col>
               <Col xs={1} className="box-lang-select">

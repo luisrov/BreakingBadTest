@@ -32,8 +32,8 @@ const Main = () => {
     
     return (
         status === 'loading' ?
-        <Container  className="data-loading" >
-            <img src={svgLoading} alt='svg not found'/>
+        <Container >
+            <img src={svgLoading} alt='svg not found' className="svg-center"/>
         </Container>
         : status === 'success' ? 
         <Container className="ag-theme-alpine" style={{height: 800, width: 430}}>
